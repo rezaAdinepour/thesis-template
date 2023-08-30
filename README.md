@@ -2,4 +2,4 @@
 
 A LaTeX template for typesetting theses in Persian.
 
-By: Hamid Zarrabi-Zadeh
+By: [Hamid Zarrabi-Zadeh](https://github.com/zarrabi)
